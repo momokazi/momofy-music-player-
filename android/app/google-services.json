@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "376906976657",
+    "project_id": "momofy-a22be",
+    "storage_bucket": "momofy-a22be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376906976657:android:f26220a1f7cdc087925e30",
+        "android_client_info": {
+          "package_name": "com.example.labtask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376906976657-1fqduvcn59kn001i2ov1u2ov8cam43sr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKVbJl-9bHCC-xIXtPhwwotDQJSDTbOvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376906976657-1fqduvcn59kn001i2ov1u2ov8cam43sr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "376906976657-0gro70nh5daqam597b6d822r5fe8v5gf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.momofy"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376906976657:android:71cfe6e24e223343925e30",
+        "android_client_info": {
+          "package_name": "com.example.momofy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376906976657-0d6iu686bgbk9rl9mir5dvhi3stvncs2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.momofy",
+            "certificate_hash": "a789e505c817a122ea906ea6eaa3d48b3a30ab18"
+          }
+        },
+        {
+          "client_id": "376906976657-1fqduvcn59kn001i2ov1u2ov8cam43sr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKVbJl-9bHCC-xIXtPhwwotDQJSDTbOvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376906976657-1fqduvcn59kn001i2ov1u2ov8cam43sr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "376906976657-0gro70nh5daqam597b6d822r5fe8v5gf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.momofy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

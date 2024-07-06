@@ -1,0 +1,1 @@
+ D:\\Uni\\6th\ Semester\\Mobile\ Application\ Development\\Project\\momofy\\.dart_tool\\flutter_build\\655cfaed36e351e7044862e3119d5035\\native_assets.yaml: 

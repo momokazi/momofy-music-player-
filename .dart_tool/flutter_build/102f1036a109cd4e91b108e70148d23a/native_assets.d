@@ -1,0 +1,1 @@
+ G:\\momofy\\.dart_tool\\flutter_build\\102f1036a109cd4e91b108e70148d23a\\native_assets.yaml: 
