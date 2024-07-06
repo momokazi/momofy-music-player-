@@ -15,7 +15,7 @@ Sure, here's a detailed README for your Flutter Spotify API project:
 
 ---
 
-# Spotify API Example in Flutter
+# momofy
 
 This Flutter application demonstrates how to integrate with the Spotify API using the Client Credentials flow. The app allows users to search for an artist and display their top tracks.
 
