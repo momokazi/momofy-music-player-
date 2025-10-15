@@ -1,22 +1,5 @@
 # momofy
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-Sure, here's a detailed README for your Flutter Spotify API project:
-
----
-
-# momofy
-
 This Flutter application demonstrates how to integrate with the Spotify API using the Client Credentials flow. The app allows users to search for an artist and display their top tracks.
 
 ## Features
